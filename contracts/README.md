@@ -7,5 +7,5 @@
 </br>
 
 <p align="center">
-  <img alt="image" src="https://github.com/gesia-platform/voucher/assets/99451647/4cc6d49b-41ea-447a-8cbc-071e6e6769ad">
+  <img alt="image" src="https://github.com/gesia-platform/Voucher/assets/99451647/8f7f1fe9-954f-4a45-8e75-3965ef40103e">
 </p>
