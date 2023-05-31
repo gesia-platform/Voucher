@@ -13,7 +13,7 @@ In order to on-chain the unique identifier of the carbon voucher that exists as 
 </p>
 
 <p align="center">
-  <img alt="image" src="https://github.com/gesia-platform/voucher/assets/99451647/0d728334-3af6-4f04-8397-0eab06ef758d">
+  <img alt="image" src="https://github.com/gesia-platform/Voucher/assets/99451647/c4482ccb-7c24-41e7-9e7a-fdc7701e4aab">
 </p>
 
 </br>
@@ -39,7 +39,8 @@ The form of vouchers is largely divided according to the structure and issuance 
 
 |                                           A consigned/non-consigned voucher                                            |                                          Voucher in the form of ERC20/ERC1155                                          |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| <img alt="image" src="https://github.com/gesia-platform/voucher/assets/99451647/959e690f-3672-46f2-a636-25d5b956c81b"> | <img alt="image" src="https://github.com/gesia-platform/voucher/assets/99451647/959e690f-3672-46f2-a636-25d5b956c81b"> |
+| <img alt="image" src="https://github.com/gesia-platform/Voucher/assets/99451647/e521afe4-5a37-4d37-83d2-f2a2687a51a5"> | <img alt="image" src="https://github.com/gesia-platform/Voucher/assets/99451647/a04a4c25-f218-4ece-b305-fb4c8423cdaa">
+ |
 
 ---
 
@@ -56,7 +57,7 @@ The NFT token issuance method that manages the carbon absorption of carbon offse
 </p>
 
 <p align="center">
-  <img alt="image" src="https://github.com/gesia-platform/voucher/assets/99451647/225f73a1-6bb9-48a2-aae5-cbf398f2a1a7">
+  <img alt="image" src="https://github.com/gesia-platform/Voucher/assets/99451647/b0f3cc19-da46-4e34-975e-7010c6a10f96">
 </p>
 
 In this way, the NFT token issuance method using smart contracts has the following advantages.
